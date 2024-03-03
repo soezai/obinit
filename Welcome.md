@@ -1,5 +1,8 @@
-This is your new *vault*.
+## 插件
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+### Outerliner
 
-When you're ready, delete this note and make the vault your own.
+- line3
+- line 1
+- line2
+	- line3
